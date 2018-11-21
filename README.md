@@ -1,4 +1,4 @@
-# Newspaper-Subscription-calculator
+# Newspaper-Subscription-calculator-Using-Inheritance 
 Determines the price of the newspaper the customer is ordering
 //Program public DemoSubscriptions class, Lab 13
 //Written by Alec Narkizian
